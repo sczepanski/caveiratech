@@ -3,7 +3,7 @@ export default function AboutSection() {
         <section className="py-20 px-6 bg-slate-50">
             <div className="max-w-5xl mx-auto grid md:grid-cols-2 gap-10 items-center">
                 <div>
-                    <h2 className="text-3xl font-bold mb-4 text-slate-800">Sobre Nós</h2>
+                    <h2 className="text-3xl font-bold mb-4 text-slate-800">Sobre Nós!</h2>
                     <p className="text-slate-600 mb-4">
                         Somos uma equipe apaixonada por tecnologia e design, comprometida em entregar resultados reais.
                     </p>
